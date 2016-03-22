@@ -1,0 +1,13 @@
+"=git
+"add file추가
+"commit 코딩후저장
+맨윗줄에서 i commit 하고  esc버튼
+
+:wq 입력하면 처음화면
+"" status 상태확인
+"commit -a 파일수정시 업데이트
+" branch 분기명 분기만들기 
+" branch -d 분기지우기
+" check out 분기명 분기명접속/해제
+" check out -b 분기명 분기생성 바로접속
+
